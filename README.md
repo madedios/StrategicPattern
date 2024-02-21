@@ -53,5 +53,4 @@ public class Character {
     }
 }
 # UML
-## UML
-##### UML
+![strategicpattern UML](https://github.com/madedios/strategicpattern/assets/77655167/94c9edee-3616-4854-b598-ea9d39655779)
